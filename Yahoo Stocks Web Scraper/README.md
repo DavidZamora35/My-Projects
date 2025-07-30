@@ -1,7 +1,7 @@
 # Yahoo Stocks Web Scraper
 
 This project utilized **Python**, **BeautifulSoup** and **MongoDB** in order to scrape stock information from Yahoo and store it in a MongoDB database. 
-I also created a **PHP** file in order to host the scraped stock information being stored in the MongoDB database.
+I also created a **PHP** file in order to host the scraped stock information being stored in the MongoDB database on an **Apache** webserver.
 
 _Note: All scraping done by the Python program is in compliance with the terms of service of Yahoo Finance._
 
