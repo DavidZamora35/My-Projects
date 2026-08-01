@@ -4,6 +4,7 @@
 * **Airplane Passenger Satisfaction Analysis** - **HTML** file containing **Python** code for machine learning and its results.
 * **SFort95 Parser & Interpreter** - A **C++** project containing several **C++** files for the purpose of compiling a simple Fortran95-like parser and interpreter.
 * **Yahoo Stocks Web Scraper** - A **Python** file making use of **BeautifulSoup** and **MongoDB** to scrape and store stock information, and a **PHP** file to host the scraped stock information.
+* **Microbit Snake Game** - A **Python** file making use of the **Microbit** library to create a functional snake game using the Microbit's 25 LEDs and 2 buttons.
 
 ### I also have other **web development** projects in their own standalone repositories...
 * [**Film Rental Website**](https://github.com/DavidZamora35/FilmRentalWebsite) - Website for simulating a film rental store using the **Next.js** framework. **React**, **Typescript** and **Tailwind CSS** for the **frontend**, **Prisma** and **MySQL Workbench** for the **backend**.
